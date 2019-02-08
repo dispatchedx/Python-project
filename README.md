@@ -1,3 +1,4 @@
 # Python-project
-University assignment \n
+University assignment.
+
 my_project.py is main.
